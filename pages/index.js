@@ -169,6 +169,10 @@ function Home({ changeTheme, theme, sortedChains }) {
               </Button>
               <p>
               </p>
+              <p>
+              </p>
+              <p>
+              </p>
           
               <Typography className={classes.subTitle}>
                 Chainslist has been deployed, secured and actively maintained by TheMind
