@@ -14,7 +14,7 @@ import Switch from "@material-ui/core/Switch";
 
 const searchTheme = createTheme({
   palette: {
-    type: "light",
+    type: "dark",
     primary: {
       main: "#2F80ED",
     },
