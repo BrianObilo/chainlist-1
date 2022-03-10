@@ -165,6 +165,7 @@ function Home({ changeTheme, theme, sortedChains }) {
                 endIcon={<AddIcon />}
               >
                 <Typography className={classes.buttonLabel}>Add Your Network</Typography>
+              <p>
               </Button>
               <p>
               <p>
